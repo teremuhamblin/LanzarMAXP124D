@@ -1,0 +1,28 @@
+{
+  "project": "LanzarMAXP124D",
+  "description": "Presets de base pour tuning SPL / daily avec 2x Lanzar MAXP124D en 4Ω final.",
+  "presets": [
+    {
+      "name": "Daily-Strong",
+      "lowpass_hz": 80,
+      "subsonic_hz": 25,
+      "eq": [
+        { "freq_hz": 35, "gain_db": 2, "q": 1.0 },
+        { "freq_hz": 45, "gain_db": 3, "q": 1.0 },
+        { "freq_hz": 60, "gain_db": -1.5, "q": 1.0 }
+      ],
+      "notes": "Preset pour usage quotidien, bon compromis entre impact et profondeur."
+    },
+    {
+      "name": "SPL-Focus",
+      "lowpass_hz": 70,
+      "subsonic_hz": 28,
+      "eq": [
+        { "freq_hz": 38, "gain_db": 4, "q": 1.2 },
+        { "freq_hz": 50, "gain_db": 2, "q": 1.0 },
+        { "freq_hz": 65, "gain_db": -2, "q": 1.0 }
+      ],
+      "notes": "Preset orienté SPL, centré sur la zone d’accord du caisson."
+    }
+  ]
+}
