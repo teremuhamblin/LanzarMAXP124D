@@ -1,0 +1,25 @@
+[Driver]
+Version=1
+DriverName=Lanzar MAXP124D
+Manufacturer=Lanzar
+Comment=Subwoofer 12 pouces DVC 4 ohms - Projet LanzarMAXP124D
+
+[Parameters]
+Fs=32.0
+Qes=0.52
+Qms=5.20
+Qts=0.47
+Vas=65.0
+Re=3.6
+Le=2.5
+Sd=510
+Xmax=12.0
+Pe=800
+Z=4
+
+[Extra]
+Dia=0.255
+Bl=14.5
+Cms=0.18
+Rms=3.2
+Mms=180
