@@ -1,0 +1,13 @@
+CUT LIST – LanzarMAXP124D (base de travail, à ajuster après simu)
+
+Matériau : CP bouleau 18 mm
+
+NOTE : Dimensions indicatives, à adapter selon volume final choisi.
+
+- 2x Flancs (gauche/droite) : [à définir] mm
+- 2x Haut / Bas : [à définir] mm
+- 1x Fond : [à définir] mm
+- 1x Baffle avant : [à définir] mm
+- Renforts internes : [à définir] mm
+
+À compléter après validation du volume et des dimensions exactes dans `docs/box-design.md` et simulations WinISD.
