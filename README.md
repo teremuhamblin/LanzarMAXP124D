@@ -2,14 +2,12 @@
 # 🔥 Lanzar
 ### MAXP124D
 - Compétition
-```md
-Le projet LanzarMAXP124D-Comp vise à concevoir, documenter et optimiser un système de basses haute‑puissance basé sur deux subwoofers Lanzar MAXP124D, des modèles réputés dans le milieu SPL pour leur robustesse, leur rendement et leur capacité à encaisser de fortes charges électriques.
-```
+`Le projet LanzarMAXP124D-Comp vise à concevoir, documenter et optimiser un système de basses haute‑puissance basé sur deux subwoofers Lanzar MAXP124D, des modèles réputés dans le milieu SPL pour leur robustesse, leur rendement et leur capacité à encaisser de fortes charges électriques`
 
 ---
 
 ### 🎯 Objectif du projet
-Créer un caisson SPL performant, capable d’exploiter 2× Lanzar MAXP124D dans une configuration 4Ω finale, avec une puissance totale exploitable de 1200W RMS, tout en garantissant :
+`Créer un caisson SPL performant, capable d’exploiter 2× Lanzar MAXP124D dans une configuration 4Ω finale, avec une puissance totale exploitable de 1200W RMS, tout en garantissant :`
 - une pression acoustique élevée,  
 - une réponse propre et maîtrisée,  
 - une fiabilité mécanique et électrique,  
@@ -63,6 +61,15 @@ LanzarMAXP124D/
 │
 └── README.md
 ```
+
+>Système de basses haute puissance basé sur deux subwoofers Lanzar MAXP124D (12", DVC 4Ω), orienté SPL / compétition.
+
+### Statut
+- Version : 0.1 – Base de conception
+- Évolutions prévues :
+  - Affinage des volumes et de l’accord
+  - Ajout de presets DSP détaillés
+  - Retours terrain (tests réels)
 
 ### 🧭 Finalité
 >Ce projet fournit une base complète
