@@ -1,6 +1,6 @@
 ###### README.md >> markdown
 [![lintr](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/lintr.yml/badge.svg)](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/lintr.yml)
-[![CI](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml)
+[![lint](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml)
 # 🔥 Lanzar
 ### MAXP124D
 - Compétition
