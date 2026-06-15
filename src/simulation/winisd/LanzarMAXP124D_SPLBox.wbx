@@ -1,0 +1,27 @@
+[Box]
+Version=1
+ProjectName=LanzarMAXP124D_SPL
+Comment=Caisson bass-reflex SPL pour 2x Lanzar MAXP124D
+
+[Driver]
+DriverName=Lanzar MAXP124D
+NumberOfDrivers=2
+
+[BoxParameters]
+Type=Vented
+Vb=90.0
+Fb=38.0
+
+[Vent]
+VentType=Slot
+VentArea=280.0
+VentLength=32.0
+
+[Filter]
+HighpassType=Subsonic
+HighpassFreq=28.0
+HighpassSlope=18
+
+LowpassType=Lowpass
+LowpassFreq=70.0
+LowpassSlope=24
