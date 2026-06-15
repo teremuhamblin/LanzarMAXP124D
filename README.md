@@ -1,4 +1,5 @@
 ###### README.md >> markdown
+[![CI](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml)
 # 🔥 Lanzar
 ### MAXP124D
 - Compétition
