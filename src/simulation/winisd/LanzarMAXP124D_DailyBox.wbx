@@ -1,0 +1,27 @@
+[Box]
+Version=1
+ProjectName=LanzarMAXP124D_Daily
+Comment=Caisson bass-reflex daily pour 2x Lanzar MAXP124D
+
+[Driver]
+DriverName=Lanzar MAXP124D
+NumberOfDrivers=2
+
+[BoxParameters]
+Type=Vented
+Vb=95.0
+Fb=34.0
+
+[Vent]
+VentType=Slot
+VentArea=250.0
+VentLength=40.0
+
+[Filter]
+HighpassType=Subsonic
+HighpassFreq=25.0
+HighpassSlope=12
+
+LowpassType=Lowpass
+LowpassFreq=80.0
+LowpassSlope=24
