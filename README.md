@@ -45,7 +45,7 @@ Le dépôt LanzarMAXP124D-Comp regroupe :
 LanzarMAXP124D/
 │
 ├── docs/
-│   ├── specs-LanzarMAXP124D.md
+│   ├── specification.md
 │   ├── wiring-4ohm-final.md
 │   ├── box-design.md
 │   └── amp-matching.md
