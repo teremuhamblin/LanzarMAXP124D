@@ -1,0 +1,35 @@
+[Project]
+Version=1
+ProjectName=LanzarMAXP124D_2Subs
+Comment=Projet 2x Lanzar MAXP124D en 4 ohms final
+
+[Driver]
+DriverName=Lanzar MAXP124D
+NumberOfDrivers=2
+
+[Connection]
+ConnectionType=Parallel
+Note=Deux subs câblés en parallèle, chaque sub en série sur ses bobines (8 ohms -> 4 ohms final)
+
+[Box]
+Type=Vented
+Vb=95.0
+Fb=34.0
+
+[Vent]
+VentType=Slot
+VentArea=250.0
+VentLength=40.0
+
+[Signal]
+InputPower=1500.0
+Note=Puissance totale visée ~1500W RMS @ 4 ohms
+
+[Filters]
+HighpassType=Subsonic
+HighpassFreq=25.0
+HighpassSlope=12
+
+LowpassType=Lowpass
+LowpassFreq=80.0
+LowpassSlope=24
