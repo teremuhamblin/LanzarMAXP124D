@@ -71,6 +71,21 @@ LanzarMAXP124D/
   - Ajout de presets DSP détaillés
   - Retours terrain (tests réels)
 
+### 🪖 Soutien Opérationnel
+>Projet LanzarMAXP124D - Competition
+- Ce projet n’est pas un simple dépôt GitHub :
+   - c’est un **programme SPL de niveau opérationnel**, conçu pour délivrer un maximum de pression acoustique avec deux unités Lanzar MAXP124D.
+- Chaque sponsor renforce la mission :
+   - acquisition de matériel pour tests réels  
+   - optimisation des caissons (WinISD, mesures, tuning)  
+   - documentation technique de niveau régimentaire  
+   - développement d’outils et scripts associés  
+
+### Canaux de soutien
+- 🎖️ **GitHub Sponsors** — soutien direct au développeur  
+- ☕ **Ko‑fi** — ration énergétique ponctuelle  
+- 💶 **Liberapay** — soutien discret, 0% de pertes  
+
 ### 🧭 Finalité
 >Ce projet fournit une base complète
 - pour construire un système SPL puissant, fiable et documenté,
