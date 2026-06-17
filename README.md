@@ -1,10 +1,10 @@
 ###### README.md >> markdown 
 [![CI](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml/badge.svg)](https://github.com/teremuhamblin/LanzarMAXP124D/actions/workflows/blank.yml)
 # 🔥 Lanzar
-### MAXP124D - Compétition
-Le projet LanzarMAXP124D - Compétition :
+### MAXP124D ( Serie compétition )
+> Ce projet :
 - vise à concevoir, documenter et optimiser un système de basses haute puissance
-- basé sur deux subwoofers Lanzar MAXP124D, des modèles réputés dans le milieu SPL pour leur robustesse, leur rendement et leur capacité à encaisser de fortes charges électriques.
+- est basé sur deux subwoofers Lanzar MAXP124D, des modèles réputés dans le milieu SPL pour leur robustesse, leur rendement et leur capacité à encaisser de fortes charges électriques.
 
 ### 🎯 Objectif du projet
 >Créer un caisson SPL performant, capable d’exploiter 2× Lanzar MAXP124D dans une configuration 4Ω finale, avec une puissance totale exploitable de 1200W RMS, tout en garantissant :
