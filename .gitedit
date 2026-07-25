@@ -1,0 +1,52 @@
+# .gitedit — Règles d’édition Git pour LanzarMAXP124D
+
+## Objectif
+Standardiser les messages de commit, les conventions d’édition et les bonnes pratiques pour garder un historique propre et militaire.
+
+---
+
+## Format des commits
+Utiliser le format suivant :
+
+<type>: <description courte>
+
+### Types autorisés
+- feat — nouvelle fonctionnalité
+- fix — correction de bug
+- docs — documentation
+- style — formatage, indentation, pas de logique
+- refactor — amélioration du code sans changement de comportement
+- perf — optimisation
+- test — ajout ou modification de tests
+- chore — maintenance, dépendances, tâches internes
+
+### Exemples
+- feat: ajout du preset DSP 45Hz SPL
+- fix: correction du calcul de volume interne
+- docs: mise à jour du wiring 4 ohms final
+
+---
+
+## Règles d’édition
+- Pas de commit direct sur `main`
+- Toujours passer par une branche :
+  - `feature/<nom>`
+  - `fix/<nom>`
+  - `docs/<nom>`
+- PR obligatoire pour toute modification
+- Tests exécutés avant merge
+- Pas de fichiers temporaires ou audio dans les commits
+
+---
+
+## Conventions Markdown
+- Titres structurés
+- Tableaux pour les specs
+- Code blocks pour les scripts DSP ou calculs
+- ASCII autorisé pour schémas rapides
+
+---
+
+## Politique de merge
+- Squash & merge recommandé
+- Rebase avant merge si historique complexe
