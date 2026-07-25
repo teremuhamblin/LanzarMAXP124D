@@ -1,0 +1,57 @@
+# .gitignore — Projet LanzarMAXP124D
+Ignorer les fichiers temporaires, caches, artefacts de build et données locales.
+
+## Système
+.DS_Store
+Thumbs.db
+
+## Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.eggs/
+
+## Logs
+*.log
+logs/
+debug.log
+
+## Build / Output
+build/
+dist/
+out/
+tmp/
+*.tmp
+
+## DSP / Audio Tools
+*.wav
+*.aiff
+*.flac
+*.mp3
+*.m4a
+*.ogg
+
+## Simulation (WinISD, DSP, etc.)
+src/simulation/winisd/*.wdr
+src/simulation/winisd/*.wdb
+src/simulation/winisd/*.bak
+
+## IDE / Éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## OSINT / Tools (si ajoutés)
+Tools/
+Tools/*
+
+## Secrets (ne jamais commiter)
+*.key
+*.pem
+*.crt
+*.env
+.env.*
